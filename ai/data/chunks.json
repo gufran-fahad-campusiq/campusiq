@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "topic": "Attendance Rules",
+    "text": "A student must have at least 75 percent attendance in each subject to be eligible for the end semester exam."
+  },
+  {
+    "id": 2,
+    "topic": "Attendance Rules",
+    "text": "Students with attendance between 65 and 75 percent can apply for condonation by paying a fee of 500 rupees."
+  },
+  {
+    "id": 3,
+    "topic": "Attendance Rules",
+    "text": "Students with attendance below 65 percent are detained and must repeat the semester."
+  },
+  {
+    "id": 4,
+    "topic": "Examination Rules",
+    "text": "Each theory subject has 40 marks for internal assessment and 60 marks for the end semester exam."
+  },
+  {
+    "id": 5,
+    "topic": "Examination Rules",
+    "text": "A student must score at least 40 percent overall to pass a subject."
+  },
+  {
+    "id": 6,
+    "topic": "Examination Rules",
+    "text": "Students who fail can appear for the supplementary exam held after the results are declared."
+  },
+  {
+    "id": 7,
+    "topic": "Hostel Rules",
+    "text": "Hostel fee must be paid before the 10th of every semester."
+  },
+  {
+    "id": 8,
+    "topic": "Hostel Rules",
+    "text": "Students must return to the hostel by 9 PM on weekdays."
+  },
+  {
+    "id": 9,
+    "topic": "Hostel Rules",
+    "text": "Visitors are allowed only in the common room between 4 PM and 6 PM."
+  }
+]
